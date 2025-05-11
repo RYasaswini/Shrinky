@@ -3,11 +3,6 @@
 
 Shrinky is a self-hosted URL shortening service that allows users to shorten long URLs for easier sharing and tracking. This project comprises a backend built with Node.js and Express, and a frontend developed using React and TypeScript.
 
-## Live Demo
-
-You can try out Shrinky at [https://shrinky-client.vercel.app](https://shrinky-client.vercel.app)
-
-
 ## Table of Contents
 
 - [Features](#features)
@@ -34,7 +29,7 @@ Before you begin, ensure you have the following installed:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/SanthiKumarYadavalli/shrinky.git
+   git clone https://github.com/RYasaswini/Shrinky.git
    cd shrinky
    ```
 
